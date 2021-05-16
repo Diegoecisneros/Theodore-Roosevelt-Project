@@ -1,9 +1,8 @@
 # Theodore-Roosevelt-Project
-The eccentric life of Theodore Roosevelt
+The eccentric life of President Theodore Roosevelt
 <!DOCTYPE html>
 <html>
 <head>
-<title>Theodore Roosevelt</title>
 </head>
 <body>
 
