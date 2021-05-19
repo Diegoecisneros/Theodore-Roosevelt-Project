@@ -51,6 +51,6 @@
 <p>He would retire from exploration and adventure and would help out in promoting the Boy Scouts, he also wanted to rebuild his Rough Riders to fight in World War One but the governemnt turned him down. In 1919 Roosevelt died in his sleep from breathing problems. The then Vice President, Thomas Marshall when he heard of the death of Roosevelt he said "Death had to take Roosevelt sleeping, for if he had been awake, there would have been a fight".</p>
 
 <h2>Refernce</h2>
-<p>https://www.nps.gov/thrb/learn/historyculture/the-roosevelt-pets.htm<p>
+<p>https://www.nps.gov/thrb/learn/historyculture/the-roosevelt-pets.htm</p>
 </body>
 </html>
