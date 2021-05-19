@@ -41,11 +41,11 @@
 <p class="credits">Credits:https://www.nytimes.com/2012/10/28/nyregion/theodore-roosevelts-elephant.html</p>
 
 <p>In 1912 in Wisconsin he was there on a campaign speech, there he was shot by a man named John Schrank. The bullet went inside Roosevelt but what stopped it from reaching his lungs was his 50 thick page speech, he refused to go to the hospital and continued his 90 minute speech, while doing his speech he was still bleeding from his bullet wound. When he finished his speech he finally allowed to be taken to the hospital.</p>
-<embed src="file:///C:/Users/1ust0/Downloads/I6OLNJYO5VVO3LV26WSOFSKI7Y.pdf" alt="Theodore Roosevelt" width="270" />
+<embed src="Images5/BulletClose.png" alt="Theodore Roosevelt" width="270" />
 <p class="credits">Credits:https://www.nydailynews.com/news/justice-story/takes-kill-bull-moose-article-1.1179536</p>
 
 <p>Roosevelt survived the wound but lost the election. In 1913 he went to Brazil to hunt and collect animal speciemen there, not only that he went to explore uncharted Amazonian jungles and even found a new waterway in the Amazon river which is now called the Roosevelt River. He returned to the US in 1914.</p>  
-<image src="Images5/BulletClose.png" alt="Theodore Roosevelt in the Amazon" width="140"/>
+<image src="" alt="Theodore Roosevelt in the Amazon" width="140"/>
 <p class="credits">Credits:https://www.nwaonline.com/news/2018/jan/09/roosevelt-takes-high-risk-trip-into-the/</p>
 
 <p>He would retire from exploration and adventure and would help out in promoting the Boy Scouts, he also wanted to rebuild his Rough Riders to fight in World War One but the governemnt turned him down. In 1919 Roosevelt died in his sleep from breathing problems. The then Vice President, Thomas Marshall when he heard of the death of Roosevelt he said "Death had to take Roosevelt sleeping, for if he had been awake, there would have been a fight".</p>
