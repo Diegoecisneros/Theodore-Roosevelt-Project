@@ -18,7 +18,7 @@
 <p class="credits">Credits:https://library.harvard.edu/collections/theodore-roosevelt-collection </p>
 
 <p>Theodore Roosevelt in 1880 he married his first wife Alice Lee Hathway and in 1884 she gave birth to Roosevelt first child. In childbirth however she had complication and died, to make things even worse his mother died the very same day. Distraught Theodore Roosevelt decided to leave New York and go to the Dakota territory to heal his emotional wound.</p>
-<image src="Images3/Roosevelt-FirstWife-and-Mom.jpg" alt="Theodore Roosevelt first wife Alice Hathaway Lee" width="200"/>
+<image src="https://user-images.githubusercontent.com/84286290/118863817-5a5f9a80-b8ad-11eb-937b-a377153af057.jpg" alt="Theodore Roosevelt first wife Alice Hathaway Lee" width="200"/>
 <p class="credits">Credits:https://www.theodorerooseveltcenter.org/Learn-About-TR/TR-Encyclopedia/Family-and-Friends/Alice-Hathaway-Lee-Roosevelt </p>
 
 <p>Theodore Roosevelt while in Dakota he became a cowboy, hunting, becoming a sheriff, herding cows in his own ranch and exploring the wilderness. In one occasion when he was in a bar, a man entered the bar with two guns in his hand demanding drinks, he saw Theodore in the back of the bar wearing glasses, then man went Roosevelt and demanded him to buy him drinking. calling him four eyes and insulting him. Theodore Roosevelt simply stood up punched the man and knocked him out, Theodore Roosevelt won a gun duel with his fist.</p>
