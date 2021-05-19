@@ -11,7 +11,7 @@
 
 <p1>When he was born the doctors found that he has asthma and other health problems. He was stuck to his bed for most of his childhood but as a teen he left his bed and would go outside. He would climb hills, particapte in gymnastics, he would do weight lifting and even learned martial just so he can beat his illness.</p1>
 <p class="credits">Theodore Roosevelt running to beat his illness </p>
-<image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/Thedore%20Rossevelt%20Beating%20Asthma.svg" alt="Theodore Roosevelt running to beat his illness" width="200" height="100"/>
+<image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/Thedore%20Rossevelt%20Beating%20Asthma.svg" alt="Theodore Roosevelt running to beat his illness" width="250"/>
 
 <p>Theodore Roosevelt was not only physically strong, he was also very smart. As a bedridened child he would read books and study on his past time. There he would develop a love of sciences and nature. He went on to study in Harvard University and garduate in 1880 and then went to Columbia University and graduated there in 1882. </p>
 <image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/TR_at_Harvard_11421969.jpg" alt="Theodore Roosevelt wrestling outfit in the Harvard wrestling team" width="150"/>
@@ -22,7 +22,7 @@
 <p class="credits">Credits:https://www.theodorerooseveltcenter.org/Learn-About-TR/TR-Encyclopedia/Family-and-Friends/Alice-Hathaway-Lee-Roosevelt </p>
 
 <p>Theodore Roosevelt while in Dakota he became a cowboy, hunting, becoming a sheriff, herding cows in his own ranch and exploring the wilderness. In one occasion when he was in a bar, a man entered the bar with two guns in his hand demanding drinks, he saw Theodore in the back of the bar wearing glasses, then man went Roosevelt and demanded him to buy him drinking. calling him four eyes and insulting him. Theodore Roosevelt simply stood up punched the man and knocked him out, Theodore Roosevelt won a gun duel with his fist.</p>
-<embed src="file:///C:/Users/1ust0/Favorites/Theodore%20Roosevelt%20Knock%20Out.pdf" alt="Theodore Roosvelt beat the man that threatened him" width="140"/>
+<image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/Theodore%20Roosevelt%20Knock%20Out.svg" alt="Theodore Roosvelt beat the man that threatened him" width="200"/>
 
 <p>In 1885 Roosevelt returned to New York and remarried to his second wife, Edith Kermit Roosevelt. In 1895, Roosevelt became the Commissioner of the New York police, he quickly became known as a crusader as he fought not only street criminals but he fought against corruption inside New York very own police departemnt.</p>
 <embed src="file:///C:/Users/1ust0/Downloads/service-pnp-ppmsca-37500-37571v.pdf" alt="Theodore Roosevelt as the police of New York" width="150"/>
