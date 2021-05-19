@@ -25,7 +25,7 @@
 <image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/Theodore%20Roosevelt%20Knock%20Out.svg" alt="Theodore Roosvelt beat the man that threatened him" width="200"/>
 
 <p>In 1885 Roosevelt returned to New York and remarried to his second wife, Edith Kermit Roosevelt. In 1895, Roosevelt became the Commissioner of the New York police, he quickly became known as a crusader as he fought not only street criminals but he fought against corruption inside New York very own police departemnt.</p>
-<image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/service-pnp-ppmsca-37500-37571v.jpg" alt="Theodore Roosevelt as the police of New York" width="150"/>
+<image src="Images5/TheodoreAsPolice.png" alt="Theodore Roosevelt as the police of New York" width="150"/>
 <p class="credits">Credits:https://www.loc.gov/item/2013650911/</p>
 
 <p>In 1897 then president William McKinley placed Theodore Roosevelt as the assistant secretary of the US Navy. When the Spanish American War broke out in 1898, Roosevelt left his position to fight in the war as he gathered a group volunteers, to form the Rough Riders and invaded Cuba with one of his most famous battle being the Battle of San Juan Hill where he charged uphill at the enemy and won, making him a War Hero</p>
