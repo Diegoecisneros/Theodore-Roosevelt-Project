@@ -22,7 +22,7 @@
 <p class="credits">Credits:https://www.biography.com/news/theodore-roosevelt-wife-mother-death </p>
 
 <p>Theodore Roosevelt while in Dakota he became a cowboy, hunting, becoming a sheriff, herding cows in his own ranch and exploring the wilderness. In one occasion when he was in a bar, a man entered the bar with two guns in his hand demanding drinks, he saw Theodore in the back of the bar wearing glasses, then man went Roosevelt and demanded him to buy him drinking. calling him four eyes and insulting him. Theodore Roosevelt simply stood up punched the man and knocked him out, Theodore Roosevelt won a gun duel with his fist.</p>
-<image src="https://user-images.githubusercontent.com/84286290/118867850-867d1a80-b8b1-11eb-9795-f866697021c3.png" alt="Theodore Roosvelt beat the man that threatened him" width="200"/>
+<image src="https://user-images.githubusercontent.com/84286290/118868878-b973de00-b8b2-11eb-8bfc-82948bba3468.png" alt="Theodore Roosvelt beat the man that threatened him" width="200"/>
 
 <p>In 1885 Roosevelt returned to New York and remarried to his second wife, Edith Kermit Roosevelt. In 1895, Roosevelt became the Commissioner of the New York police, he quickly became known as a crusader as he fought not only street criminals but he fought against corruption inside New York very own police departemnt.</p>
 <image src="Images5/TheodoreAsPolice.png" alt="Theodore Roosevelt as the police of New York" width="150"/>
