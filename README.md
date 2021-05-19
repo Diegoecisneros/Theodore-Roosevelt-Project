@@ -14,7 +14,7 @@
 <image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/Thedore%20Rossevelt%20Beating%20Asthma.svg" alt="Theodore Roosevelt running to beat his illness" width="200" height="100"/>
 
 <p>Theodore Roosevelt was not only physically strong, he was also very smart. As a bedridened child he would read books and study on his past time. There he would develop a love of sciences and nature. He went on to study in Harvard University and garduate in 1880 and then went to Columbia University and graduated there in 1882. </p>
-<embed src="file:///C:/Users/1ust0/Downloads/TR_at_Harvard_11421969.pdf" alt="Theodore Roosevelt wrestling outfit in the Harvard wrestling team" width="150"/>
+<image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/TR_at_Harvard_11421969.jpg" alt="Theodore Roosevelt wrestling outfit in the Harvard wrestling team" width="150"/>
 <p class="credits">Credits:https://library.harvard.edu/collections/theodore-roosevelt-collection </p>
 
 <p>Theodore Roosevelt in 1880 he married his first wife Alice Lee Hathway and in 1884 she gave birth to Roosevelt first child. In the childbirth however she had complication and died, to make things even worse his mother died the very same day. Distraught Theodore Roosevelt decided to leave New York and go to the Dakota territory to heal his emotional wound.</p>
