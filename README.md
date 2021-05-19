@@ -33,7 +33,7 @@
 <p class="credits">Credits:https://www.nytimes.com/2019/06/04/books/review/clay-risen-crowded-hour.html</p> 
 
 <p>In 1900 Roosevelt became Vice President to then President William McKinley, until 1901 where William McKinley was shot dead by a radical anarchist. Roosevelt become the new President and in his Presidency he did a lot of changes to the nation. He set up the first National Parks, build the Panama Canal, help broker peace between Japan and Russia and would set up laws that would break monopolies up. He also had a lot of pets that stayed in the white house, pets like a bear named Jonathan Edwards, a lizard named Bill, guinea pigs named Admiral Dewey, Dr Johnson, Bishop Doane, Fighting Bob Evans and Father O'Grady, Maude the Pig, Josiah the badger, Eli Yale the Blue Macaw, Baron Spreckles the one legged, Peter Rabbit and Algonquin the Pony.</p>
-<embed src="file:///C:/Users/1ust0/Downloads/service-pnp-ppmsca-36400-36498v.pdf" alt="Baron Spreckles" width="150"/>
+<image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/service-pnp-ppmsca-36400-36498v.jpg" alt="Baron Spreckles" width="150"/>
 <p class="credits">Credits:https://www.loc.gov/item/2010645533/</p>
 
 <p>After serving two terms in 1909 Theodore Roosevelt went to Africa to hunt animals, he sent there bodys to Museums in New York, Washington and other states to be studied. In total he personally captured or killed 11,400 animals from insects to big wild animals. When he went back to the US he was disapointed with the new president which he saw weak and promised to run again as President and even formed his own party the Progressive Party.</p>
