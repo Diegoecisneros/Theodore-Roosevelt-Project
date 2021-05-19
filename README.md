@@ -10,6 +10,7 @@
 <p class="credits">Credits: https://kids.britannica.com/kids/article/Theodore-Roosevelt/345522 </p>
 
 <p1>When he was born the doctors found that he has asthma and other health problems. He was stuck to his bed for most of his childhood but as a teen he left his bed and would go outside. He would climb hills, particapte in gymnastics, he would do weight lifting and even learned martial just so he can beat his illness.</p1>
+<p> . </p>
 <image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/HTML/Thedore%20Rossevelt%20Beating%20Asthma.svg" alt="Theodore Roosevelt running to beat his illness" width="250"/>
 
 <p>Theodore Roosevelt was not only physically strong, he was also very smart. As a bedridened child he would read books and study on his past time. There he would develop a love of sciences and nature. He went on to study in Harvard University and garduate in 1880 and then went to Columbia University and graduated there in 1882. </p>
