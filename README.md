@@ -37,7 +37,7 @@
 <p class="credits">Credits:https://www.loc.gov/item/2010645533/</p>
 
 <p>After serving two terms in 1909 Theodore Roosevelt went to Africa to hunt animals, he sent there bodys to Museums in New York, Washington and other states to be studied. In total he personally captured or killed 11,400 animals from insects to big wild animals. When he went back to the US he was disapointed with the new president which he saw weak and promised to run again as President and even formed his own party the Progressive Party.</p>
-<image src="https://github.com/Diegoecisneros/Theodore-Roosevelt-Project/blob/main/28FYI_SPAN-jumbo.jpg" alt="The animals you see in the Musuem of Natural History in New York in exhibtion many comes from Theodore Roosevelt great hunt in Africa" width="290"/>
+<image src="https://static01.nyt.com/images/2012/10/28/nyregion/28FYI_SPAN/28FYI_SPAN-jumbo.jpg?quality=90&auto=webp" alt="The animals you see in the Musuem of Natural History in New York in exhibtion many comes from Theodore Roosevelt great hunt in Africa" width="290"/>
 <p class="credits">Credits:https://www.nytimes.com/2012/10/28/nyregion/theodore-roosevelts-elephant.html</p>
 
 <p>In 1912 in Wisconsin he was there on a campaign speech, there he was shot by a man named John Schrank. The bullet went inside Roosevelt but what stopped it from reaching his lungs was his 50 thick page speech, he refused to go to the hospital and continued his 90 minute speech, while doing his speech he was still bleeding from his bullet wound. When he finished his speech he finally allowed to be taken to the hospital.</p>
